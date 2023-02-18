@@ -1,0 +1,27 @@
+[
+    {
+        "display_name": "Current Audits",
+        "route": "/",
+        "icon": "bx bx-search-alt"
+    },
+    {
+        "display_name": "Past Audits",
+        "route": "/customers",
+        "icon": "bx bx-calendar-alt"
+    },
+    {
+        "display_name": "Select Accounts",
+        "route": "/accounts",
+        "icon": "bx bx-lock-alt"
+    },
+    {
+        "display_name": "Sampling",
+        "route": "/sampling",
+        "icon": "bx bx-dollar"
+    },
+    {
+        "display_name": "Dashboard",
+        "route": "/dashboard",
+        "icon": "bx bx-category"
+    }
+]
